@@ -1,0 +1,52 @@
+#title {
+  text-align: center;
+  
+  
+}
+
+#choices {
+  display: flex;
+}
+
+.center {
+    text-align: center;
+
+}
+.choice {
+  margin: auto;
+  border: 10px solid gray;
+  border-radius: 5px;
+  /* height: 300px
+  width:  800px  */
+  
+}
+
+.selections {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  
+}
+
+#player, #opponent {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+
+}
+
+
+
+
+#rock { 
+  
+}
+
+#paper {
+  
+}
+
+#scissor {
+
+}
+
